@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nur Anati Nabilah Binti Abdul Aziz! You might ask...why Homuhomy? It's just my nickname that I have been using as my artist name since I was 15 🙂‍↕️
+My name is Nur Anati Nabilah Binti Abdul Aziz! You might ask...why Homuhomy? It's just my nickname that I have been using as my artist name since I was 15 🤩
 
 I'm currently a student in the Software Maintenance and Evolution course.
 As I'm approaching my final semester, I hope that this course will allow me to learn how to optimize the performance of the software by improving its efficiency and speed to improve the user experience!
