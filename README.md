@@ -1,4 +1,7 @@
-### Hi there! 👋
+### Hi! 👋
+
+Artist turned Software Engineering student. Currently working on a drawing game for my final year project. ✨✨
+
 <!--
 **homuhomy/homuhomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
